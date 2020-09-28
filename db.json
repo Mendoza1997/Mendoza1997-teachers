@@ -1,16 +1,19 @@
 [{
+  "userId": 1,
   "id": 1,
   "name":"Doug",
   "title":"High School Teacher",
   "description":"History, Writing, Math, Biology, Rock & Roll, and Athletic Recruitment"
 },
  {
+  "userId": 2,
   "id": 2,
   "name":"Jace",
   "title":"High School Teacher",
   "description":"Math, Freshman English, School Planning, Debate, 7th Grade and Up"
 },
  {
+  "userId": 3,
   "id": 3,
   "name":"Jodi",
   "title":"Secondary Math Teacher",
