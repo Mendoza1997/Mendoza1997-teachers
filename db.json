@@ -1,4 +1,4 @@
-[{
+{ "teachers": [{
   "userId": 1,
   "id": 1,
   "name":"Doug",
@@ -18,4 +18,4 @@
   "name":"Jodi",
   "title":"Secondary Math Teacher",
   "description":"Math, Legal Writing, Collaboration Tools, Pods, Grades 7 and under"
-}]
+}]}
