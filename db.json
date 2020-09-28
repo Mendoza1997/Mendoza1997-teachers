@@ -1,0 +1,21 @@
+[{
+  id: 1,
+  name:'Doug',
+  title:'High School Teacher',
+  description:'History, Writing, Math, Biology, Rock & Roll, and Athletic Recruitment',
+  image:'../../assets/doug.JPG'
+},
+{
+  id: 2,
+  name:'Jace',
+  title:'High School Teacher',
+  description:'Math, Freshman English, School Planning, Debate, 7th Grade and Up',
+  image:'../../assets/jace.jpeg'
+},
+{
+  id: 3,
+  name:'Jodi',
+  title:'Secondary Math Teacher',
+  description:'Math, Legal Writing, Collaboration Tools, Pods, Grades 7 and under',
+  image:'../../assets/jodi.JPG'
+}]
