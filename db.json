@@ -18,6 +18,12 @@
       "cost":50,
       "title":"tutoring",
       "description":"Math, Legal Writing, Collaboration Tools, Pods, Grades 7 and under"
+    },{
+      "userId": 4,
+      "id": 4,
+      "cost":50,
+      "title":"tutoring",
+      "description":"Math, Legal Writing, Collaboration Tools, Pods, Grades 7 and under"
     }],
   "teachers":[
     {
